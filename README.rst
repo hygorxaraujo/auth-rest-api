@@ -9,20 +9,25 @@ Develop
 Dependencies
 ------------
 
-1. [Python 3.8](https://www.python.org/downloads/)
-2. [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/)
-3. [Docker](https://docs.docker.com/v17.12/install/)
-4. [docker-compose](https://docs.docker.com/compose/install/)
+#. `Python 3.8`_
+#. Pipenv_
+#. Docker_
+#. docker-compose_
+
+.. _Python 3.8: https://www.python.org/downloads/
+.. _Pipenv: https://pipenv-fork.readthedocs.io/en/latest/
+.. _Docker: https://docs.docker.com/v17.12/install/
+.. _docker-compose: https://docs.docker.com/compose/install/
 
 Setup
 -----
 
-1. Clone the repository
-2. Create an environment with pipenv
-3. Start a shell with the created environment
-4. Configure the environment variables with the .env
-5. Start the application
-6. Run the tests
+#. Clone the repository
+#. Create an environment with pipenv
+#. Start a shell with the created environment
+#. Configure the environment variables with the .env
+#. Start the application
+#. Run the tests
 
 .. code-block:: sh
 
